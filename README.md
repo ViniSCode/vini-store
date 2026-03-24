@@ -7,7 +7,7 @@ Esta é a API REST do sistema "Vini Store", uma loja fictícia desenvolvida em *
 
 ---
 
-## 🚀 Como Executar o Projeto (Para o Professor)
+## 🚀 Como Executar o Projeto
 
 Este projeto foi construído focado em facilidade de avaliação. **Não é necessário instalar nenhum banco de dados**, pois utilizamos o banco `H2` em memória que é recriado a cada execução.
 
